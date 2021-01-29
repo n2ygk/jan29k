@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "jan29k"
+  description: "kookies"
+  annotations:
+    #github.com/project-slug: "https://github.com/n2ygk/jan29k"
+    backstage.io/techdocs-ref: gitlab:https://github.com/n2ygk/jan29k
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "user:ac45"

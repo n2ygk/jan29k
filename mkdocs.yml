@@ -1,0 +1,11 @@
+site_name: "jan29k"
+site_description: "kookies"
+#copyright: Copyright &copy; 2021 The Trustees of Columbia University in the City of New York
+
+nav:
+  - Introduction: index.md
+  # fill in additional navigation here
+  
+plugins:
+  - techdocs-core
+  # TODO: add Python-specific docs template
